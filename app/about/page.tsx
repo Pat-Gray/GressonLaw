@@ -3,7 +3,7 @@
 import Image from 'next/image';
 import { motion } from 'framer-motion';
 import Elizabeth2 from '@/public/Elizabeth2.webp';
-import Elizabeth3 from '@/public/Elizabeth3.webp';
+import ElizabethG from '@/public/ElizabethG.webp';
 import VC from '../../public/logos/VulcunChambers.png'
 import NZLS from '../../public/logos/NZLS.png'
 
@@ -140,8 +140,8 @@ export default function About() {
               className="md:w-1/2"
             >
               <Image
-                src={Elizabeth3}
-                alt="Dr. Elizabeth Gresson in court"
+                src={ElizabethG}
+                alt="Dr. Elizabeth Gresson"
                 className="rounded-2xl shadow-lg"
               />
             </motion.div>
