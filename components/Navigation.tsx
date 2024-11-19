@@ -11,7 +11,7 @@ export default function Navigation() {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
-          <Link href="/" className="font-garamond text-lg md:text-xl text-navy">
+          <Link href="/" className="font-garamond text-xl md:text-3xl text-navy">
             <span className="font-semibold">Dr. Elizabeth Grierson </span><span>| Barrister at Law</span>
           </Link>
 
