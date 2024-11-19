@@ -182,7 +182,7 @@ export default function About() {
                 <ul className="space-y-2">
                   <li className="flex items-start">
                     <span className="w-2 h-2 mt-2 mr-3 bg-gold rounded-full flex-shrink-0" />
-                    <span>Magistrates' Court of Victoria supervision</span>
+                    <span>Magistrates&apos; Court of Victoria supervision</span>
                   </li>
                   <li className="flex items-start">
                     <span className="w-2 h-2 mt-2 mr-3 bg-gold rounded-full flex-shrink-0" />
@@ -307,7 +307,7 @@ export default function About() {
                 </li>
                 <li className="flex items-start">
                   <span className="w-2 h-2 mt-2 mr-3 bg-gold rounded-full flex-shrink-0" />
-                  <span>Auckland Women Lawyers' Association</span>
+                  <span>Auckland Women Lawyers&apos; Association</span>
                 </li>
                 <li className="flex items-start">
                   <span className="w-2 h-2 mt-2 mr-3 bg-gold rounded-full flex-shrink-0" />

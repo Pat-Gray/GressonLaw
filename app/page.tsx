@@ -259,7 +259,7 @@ export default function Home() {
       <section className="py-16 bg-navy/5">
         <div className="container mx-auto px-4 text-center max-w-3xl">
           <blockquote className="text-3xl italic text-navy font-garamond">
-            "You bring a wealth of life experience to the practice of law."
+          &quot;You bring a wealth of life experience to the practice of law.&quot;
           </blockquote>
         </div>
       </section>

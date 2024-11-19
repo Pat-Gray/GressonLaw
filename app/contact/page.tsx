@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 'use client';
 
 import { motion } from 'framer-motion';
@@ -6,8 +7,6 @@ import {
   FaPhone, 
   FaEnvelope, 
   FaMapMarkerAlt, 
-  FaClock,
-  FaLinkedin
 } from 'react-icons/fa';
 
 export default function Contact() {

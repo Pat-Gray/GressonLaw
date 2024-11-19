@@ -16,7 +16,7 @@ export default function Footer(){
                       d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
               </svg>
               <span className="flex-1">
-                Vulcan Chambers, Gifford's Building
+                Vulcan Chambers, Gifford&apos;s Building
                 <br />25 Vulcan Lane, Auckland
                 <br />New Zealand
               </span>
