@@ -104,7 +104,7 @@ export default function Footer(){
     <div className="border-t border-white/10">
       <div className="container mx-auto px-4 py-6">
         <p className="text-center text-sm text-grey-light">
-          &copy; {new Date().getFullYear()} Dr. Elizabeth Grierson. All rights reserved.
+          &copy; {new Date().getFullYear()} Dr. Elizabeth Gresson. All rights reserved.
         </p>
       </div>
     </div>

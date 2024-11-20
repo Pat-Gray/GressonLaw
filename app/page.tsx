@@ -39,7 +39,7 @@ export default function Home() {
             <div className="w-full md:w-1/2 pr-0 md:pr-8 mb-8 md:mb-0">
               <div className="max-w-xl">
                 <h1 className="text-4xl md:text-5xl font-garamond mb-4 leading-tight">
-                  Dr. Elizabeth Grierson
+                  Dr. Elizabeth Gresson
                 </h1>
                 <p className="text-xl md:text-2xl mb-6">
                   Barrister at Law | Auckland, New Zealand
@@ -60,7 +60,7 @@ export default function Home() {
             <div className="w-full md:w-1/2 min-h-[300px] md:min-h-[600px] relative">
               <Image 
                 src={Elizabeth} 
-                alt="Dr. Elizabeth Grierson" 
+                alt="Dr. Elizabeth Gresson" 
                 fill
                 sizes="(max-width: 768px) 100vw, 50vw"
                 style={{ 

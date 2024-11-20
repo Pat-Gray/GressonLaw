@@ -12,7 +12,7 @@ export default function Navigation() {
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <Link href="/" className="font-garamond text-xl md:text-3xl text-navy">
-            <span className="font-semibold">Dr. Elizabeth Grierson </span><span>| Barrister at Law</span>
+            <span className="font-semibold">Dr. Elizabeth Gresson </span><span>| Barrister at Law</span>
           </Link>
 
           {/* Desktop Navigation */}
