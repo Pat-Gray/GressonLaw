@@ -62,7 +62,7 @@ export default function About() {
             </p>
             
             <p className="text-lg leading-relaxed">
-              Coming from the distinguished legal families of Gresson and Grierson, she brings a deep respect for justice and the legal system, combined with astute analytical skills and a commitment to achieving the best outcomes for her clients.
+              She brings a deep respect for justice and the legal system, combined with astute analytical skills and a commitment to achieving the best outcomes for her clients.
             </p>
 
             <p className="text-lg leading-relaxed">

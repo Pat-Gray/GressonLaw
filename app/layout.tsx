@@ -20,6 +20,7 @@ export const metadata: Metadata = {
     default: 'Gresson Law',
     template: '%s | Gresson Law'
   },
+  
   description: 'Specialized legal services in Criminal, Civil, and Education Law in Auckland, New Zealand.',
   keywords: ['criminal law', 'civil law', 'education law', 'New Zealand lawyer', 'Auckland lawyer', 'barrister', 'solicitor', 'court', 'proceedings'],
   authors: [{ name: 'Elizabeth Gresson' }],
@@ -49,6 +50,11 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+<head>
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+
+</head>
       <body className={`${garamond.variable} ${openSans.variable} font-sans`}>
         <Navigation />
         {children}
